@@ -1,4 +1,5 @@
 # Osmosis Apps List
+Osmosis Apps List is a curated list of all applications built on top of the Osmosis Protocol. It serves as a resource for users to discover new and useful applications that enhance their experience on the platform.
 
 ## Adding Your Application
 To add your application to the list, simply create a pull request to this repository that includes your application object added to the end of the applications array in the applications.json file. Your application object should include values for all the required properties. Once your pull request is merged, your application will be added to the list!

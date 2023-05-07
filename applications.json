@@ -1,0 +1,26 @@
+{
+  "applications": [
+    {
+      "title": "ION DAO",
+      "subtitle": "Decentralized autonomous organization for community governance",
+      "external_URL": "https://iondao.com",
+      "image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_img.svg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_hero.svg",
+      "twitter_URL": "https://twitter.com/ion_dao",
+      "medium_URL": "https://medium.com/iondao",
+      "github_URL": "https://github.com/iondao",
+      "featured": false
+    },
+    {
+      "title": "Mars Protocol",
+      "subtitle": "Decentralized finance infrastructure for the Binance Smart Chain ecosystem",
+      "external_URL": "https://marsprotocol.com",
+      "image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/mars_protocol_img.svg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/mars_protocol_hero.svg",
+      "twitter_URL": "https://twitter.com/mars_protocol",
+      "medium_URL": "https://medium.com/marsprotocol",
+      "github_URL": "https://github.com/marsprotocol",
+      "featured": false
+    }
+  ]
+}

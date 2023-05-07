@@ -14,7 +14,7 @@ Here are the properties that can be included in your application object:
  - **twitter_URL** (optional): The URL of your application's Twitter account.
  - **medium_URL** (optional): The URL of your application's Medium account.
  - **github_URL** (optional): The URL of your application's GitHub repository.
- - **featured** (optional): A boolean value indicating whether your application should be featured.
+ - **featured** (optional): A boolean value indicating whether your application should be featured. (for internal use only)
 
 ## Example Application Object
 Here's an example of what your application object should look like:

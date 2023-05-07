@@ -6,15 +6,15 @@ To add your application to the list, simply create a pull request to this reposi
 ## Application Properties
 Here are the properties that can be included in your application object:
 
- - title (required): The title of your application.
- - subtitle (required): A brief description or tagline for your application.
- - external_URL (required): The URL to the external site of your application.
- - image_URL (required): The URL of an image to display for your application.
- - hero_image_URL (required): The URL of a larger hero image to display for your application.
- - twitter_URL (optional): The URL of your application's Twitter account.
- - medium_URL (optional): The URL of your application's Medium account.
- - github_URL (optional): The URL of your application's GitHub repository.
- - featured (optional): A boolean value indicating whether your application should be featured.
+ - **title** (required): The title of your application.
+ - **subtitle** (required): A brief description or tagline for your application.
+ - **external_URL** (required): The URL to the external site of your application.
+ - **image_URL** (required): The URL of an image to display for your application.
+ - **hero_image_URL** (required): The URL of a larger hero image to display for your application.
+ - **twitter_URL** (optional): The URL of your application's Twitter account.
+ - **medium_URL** (optional): The URL of your application's Medium account.
+ - **github_URL** (optional): The URL of your application's GitHub repository.
+ - **featured** (optional): A boolean value indicating whether your application should be featured.
 
 ## Example Application Object
 Here's an example of what your application object should look like:

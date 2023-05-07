@@ -20,14 +20,14 @@ Here are the properties that can be included in your application object:
 Here's an example of what your application object should look like:
 ```
 {
-  "title": "My Awesome App",
-  "subtitle": "A brief description of my app",
-  "external_URL": "https://my-awesome-app.com",
+  "title": "ION DAO",
+  "subtitle": "$ION is the secondary native token on @OsmosisZone",
+  "external_URL": "https://ion.wtf",
   "image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_img.svg",
   "hero_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_hero.svg",
-  "twitter_URL": "https://twitter.com/my-awesome-app",
-  "medium_URL": "https://medium.com/my-awesome-app",
-  "github_URL": "https://github.com/my-awesome-app/my-awesome-app",
+  "twitter_URL": "https://twitter.com/_IONDAO",
+  "medium_URL": "https://medium.com/_IONDAO",
+  "github_URL": "https://github.com/many-things/ion-dao-contracts",
   "featured": false
 }
 ```

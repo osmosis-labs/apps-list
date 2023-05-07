@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "applications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "The title of the application"
+          },
+          "subtitle": {
+            "type": "string",
+            "description": "The subtitle of the application"
+          },
+          "external_URL": {
+            "type": "string",
+            "description": "The URL to the external site of the application"
+          },
+          "image_URL": {
+            "type": "string",
+            "description": "The URL of the image for the application"
+          },
+          "hero_image_URL": {
+            "type": "string",
+            "description": "The URL of the hero image for the application"
+          },
+          "twitter_URL": {
+            "type": "string",
+            "description": "The URL of the Twitter account for the application"
+          },
+          "medium_URL": {
+            "type": "string",
+            "description": "The URL of the Medium account for the application"
+          },
+          "github_URL": {
+            "type": "string",
+            "description": "The URL of the GitHub account for the application"
+          },
+          "featured": {
+            "type": "boolean",
+            "description": "Indicates whether the application is featured or not"
+          }
+        },
+        "required": ["title", "external_URL", "image_URL", "hero_image_URL"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["applications"],
+  "additionalProperties": false
+}

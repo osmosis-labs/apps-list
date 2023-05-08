@@ -46,7 +46,7 @@
             "description": "Indicates whether the application is featured or not"
           }
         },
-        "required": ["title", "external_URL", "image_URL", "hero_image_URL"],
+        "required": ["title", "external_URL", "thumbnail_image_URL", "hero_image_URL"],
         "additionalProperties": false
       }
     }

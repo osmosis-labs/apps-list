@@ -24,7 +24,7 @@ Here's an example of what your application object should look like:
   "title": "ION DAO",
   "subtitle": "$ION is the secondary native token on @OsmosisZone",
   "external_URL": "https://ion.wtf",
-  "image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_img.svg",
+  "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_thumbnail.svg",
   "hero_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_hero.svg",
   "twitter_URL": "https://twitter.com/_IONDAO",
   "medium_URL": "https://medium.com/_IONDAO",

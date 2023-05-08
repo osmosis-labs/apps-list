@@ -10,7 +10,7 @@ Here are the properties that can be included in your application object:
  - **title** (required): The name of your application. This is the main title that users will see when browsing the app store.
  - **subtitle** (required): A short and catchy phrase or tagline that describes your application. This should give users a quick idea of your app's purpose or function.
  - **external_URL** (required): The web address where users can learn more about your application, such as its official website or landing page.
- - **image_URL** (required; must be located in the /images/ directory of this repository): The web address of a representative image or icon for your application. This image will be displayed alongside your app's title and subtitle in the app store.
+ - **thumbnail_image_URL** (required; must be located in the /images/ directory of this repository): The web address of a representative image or icon for your application. This image will be displayed alongside your app's title and subtitle in the app store.
  - **hero_image_URL** (required; must be located in the /images/ directory of this repository): The web address of a larger, eye-catching image that showcases your application. This image will be prominently displayed on your app's individual page within the app store.
  - **twitter_URL** (optional, include if available): The web address of your application's official Twitter account. Providing this link enables users to follow your app's updates on Twitter.
  - **medium_URL** (optional, include if available): The web address of your application's official Medium account or blog. This link will direct users to articles or blog posts related to your app.

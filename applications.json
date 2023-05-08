@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "Sinfonia",
+      "subtitle": "The FanToken Platform built to enrich the Artists and Fans Relationship. Loyalty is what you always deserved.",
+      "external_URL": "http://sinfonia.zone",
+      "thumbnail_image_URL": "??",
+      "hero_image_URL": "??",
+      "twitter_URL": "https://twitter.com/BitSongOfficial",
+      "medium_URL": "https://bitsongofficial.medium.com/",
+      "github_URL": "https://github.com/BitSongOfficial",
+      "featured": false
     }
   ]
 }

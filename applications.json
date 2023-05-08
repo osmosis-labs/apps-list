@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "Apollo Vaults",
+      "subtitle": "Farm the fields of Mars. Proceed with caution fellow farmer. Riches and ruins lie ahead.",
+      "external_URL": "https://mars.osmosis.zone/farm",
+      "thumbnail_image_URL": "????",
+      "hero_image_URL": "????",
+      "twitter_URL": "https://twitter.com/ApolloDAO",
+      "medium_URL": "https://mars-protocol.medium.com/",
+      "github_URL": "https://github.com/mars-protocol",
+      "featured": false
     }
   ]
 }

@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "Quasar",
+      "subtitle": "Instantly make your crypto productive by adding Quasar vaults to your portfolio.",
+      "external_URL": "https://www.quasar.fi/",
+      "thumbnail_image_URL": "?",
+      "hero_image_URL": "?",
+      "twitter_URL": "https://twitter.com/quasarfi",
+      "medium_URL": "https://medium.com/@quasar.fi",
+      "github_URL": "https://github.com/quasar-finance/",
+      "featured": false
     }
   ]
 }

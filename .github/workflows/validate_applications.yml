@@ -12,4 +12,4 @@ jobs:
         run: npm install -g jsonschema
 
       - name: Validate applications.json schema
-        run: find . -name '*applications.json' -exec jsonschema -i {} -s ./applications.schema.json \;
+        run: jsonschema -i applications.json ./applications.schema.json;

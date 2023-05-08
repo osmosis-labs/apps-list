@@ -19,9 +19,9 @@
             "type": "string",
             "description": "The URL to the external site of the application"
           },
-          "image_URL": {
+          "thumbnail_image_URL": {
             "type": "string",
-            "description": "The URL of the image for the application",
+            "description": "The URL of the thumbnail image for the application",
             "pattern": "^https:\\/\\/raw\\.githubusercontent\\.com\\/osmosis\\/apps-list\\/master\\/images\\/(.+\\.(png|svg|jpg))$"
           },
           "hero_image_URL": {

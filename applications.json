@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "Kado",
+      "subtitle": "Instantly Buy & Sell Crypto. Onboard to web3 in less than 5 minutes.",
+      "external_URL": "https://www.kado.money/",
+      "thumbnail_image_URL": "???",
+      "hero_image_URL": "???",
+      "twitter_URL": "https://twitter.com/kado_money",
+      "medium_URL": "https://kado-money.medium.com/",
+      "github_URL": "",
+      "featured": false
     }
   ]
 }

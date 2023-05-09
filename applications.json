@@ -5,7 +5,7 @@
       "subtitle": "Decentralized autonomous organization for community governance",
       "external_URL": "https://iondao.com",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_thumbnail.svg",
-      "hero_image_URL": "?",
+      "hero_image_URL": "https://.png",
       "twitter_URL": "https://twitter.com/ion_dao",
       "medium_URL": "https://medium.com/iondao",
       "github_URL": "https://github.com/iondao",
@@ -24,13 +24,13 @@
     },
     {
       "title": "Sinfonia",
-      "subtitle": "The FanToken Platform built to enrich the Artists and Fans Relationship. Loyalty is what you always deserved.",
+      "subtitle": "Your Web3Music dApp powered by BitSong.",
       "external_URL": "http://sinfonia.zone",
-      "thumbnail_image_URL": "??",
-      "hero_image_URL": "??",
-      "twitter_URL": "https://twitter.com/BitSongOfficial",
+      "thumbnail_image_URL": "https://3031462916-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffr6xYD699hS4NqvSm4tR%2Fuploads%2FRefbLmhzI4oIC1GrP5fe%2Fsinfonia%20join.png?alt=media&token=ee07e0e4-3a84-4b21-8964-acd890083356",
+      "hero_image_URL": "https://3031462916-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffr6xYD699hS4NqvSm4tR%2Fuploads%2FZhDOHIK8ARV6AMP3QeLO%2FHero%201500x580.png?alt=media&token=bc725590-2be5-4ecb-a58a-a0a2b49eb2ed",
+      "twitter_URL": "https://twitter.com/sinfoniazone",
       "medium_URL": "https://bitsongofficial.medium.com/",
-      "github_URL": "https://github.com/BitSongOfficial",
+      "github_URL": "https://github.com/bitsongofficial/sinfonia-ui",
       "featured": false
     }
   ]

@@ -5,7 +5,7 @@
       "subtitle": "Decentralized autonomous organization for community governance",
       "external_URL": "https://iondao.com",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis/apps-list/master/images/ion_dao_thumbnail.svg",
-      "hero_image_URL": "?",
+      "hero_image_URL": "https://a.png",
       "twitter_URL": "https://twitter.com/ion_dao",
       "medium_URL": "https://medium.com/iondao",
       "github_URL": "https://github.com/iondao",
@@ -20,6 +20,17 @@
       "twitter_URL": "https://twitter.com/mars_protocol",
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
+      "featured": false
+    },
+    {
+      "title": "Yieldmos",
+      "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
+      "external_URL": "https://www.yieldmos.com/",
+      "thumbnail_image_URL": "???",
+      "hero_image_URL": "???",
+      "twitter_URL": "https://twitter.com/yieldmos",
+      "medium_URL": "https://medium.com/@yieldmos",
+      "github_URL": "https://github.com/yieldmos/",
       "featured": false
     }
   ]

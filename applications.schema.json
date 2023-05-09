@@ -13,7 +13,8 @@
           },
           "subtitle": {
             "type": "string",
-            "description": "The subtitle of the application"
+            "description": "The subtitle of the application",
+            "maxLength": 100
           },
           "external_URL": {
             "type": "string",

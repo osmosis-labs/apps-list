@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "IBCX",
+      "subtitle": "The Interchain Index Token",
+      "external_URL": "https://index.ion.wtf/",
+      "thumbnail_image_URL": "???",
+      "hero_image_URL": "???",
+      "twitter_URL": "https://twitter.com/IBCindex",
+      "medium_URL": "https://medium.com/@IBCindex",
+      "github_URL": "https://github.com/many-things/ibcx-contracts",
+      "featured": false
     }
   ]
 }

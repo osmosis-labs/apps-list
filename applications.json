@@ -23,14 +23,14 @@
       "featured": false
     },
     {
-      "title": "Apollo Vaults",
-      "subtitle": "Leveraged yield farming of Osmosis pools.  Powered by Apollo Vaults and Mars.",
+      "title": "Mars Farm",
+      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults! Proceed with caution fellow farmer. Riches and ruins lie ahead.",
       "external_URL": "https://mars.osmosis.zone/farm",
       "thumbnail_image_URL": "????",
       "hero_image_URL": "????",
-      "twitter_URL": "https://twitter.com/ApolloDAO",
-      "medium_URL": "https://articles.apollo.farm/",
-      "github_URL": "https://github.com/apollodao/apollo-vaults",
+      "twitter_URL": "https://twitter.com/mars_protocol",
+      "medium_URL": "https://mars-protocol.medium.com/",
+      "github_URL": "https://github.com/mars-protocol",
       "featured": false
     }
   ]

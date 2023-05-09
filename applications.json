@@ -21,6 +21,17 @@
       "medium_URL": "https://medium.com/marsprotocol",
       "github_URL": "https://github.com/marsprotocol",
       "featured": false
+    },
+    {
+      "title": "ICNS",
+      "subtitle": "InterChain Name Service. Your name for the interchain.",
+      "external_URL": "https://www.icns.xyz/",
+      "thumbnail_image_URL": "???",
+      "hero_image_URL": "https://user-images.githubusercontent.com/45252226/206968591-757afc2f-654d-4caa-a91e-96b3077c8bc3.png",
+      "twitter_URL": "https://twitter.com/icns_xyz",
+      "medium_URL": "https://medium.com/@icns",
+      "github_URL": "https://github.com/icns-xyz/icns",
+      "featured": false
     }
   ]
 }

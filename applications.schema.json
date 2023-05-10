@@ -24,12 +24,12 @@
           "thumbnail_image_URL": {
             "type": "string",
             "description": "The URL of the thumbnail image for the application",
-            "pattern": "^https?:\\/\\/(.+\\.(png|svg|jpg))$"
+            "pattern": "^https?://raw\\.githubusercontent\\.com/osmosis-labs/apps-list/main/images/[a-zA-Z0-9_-]+_thumbnail_image\\.(png|svg|jpg)$"
           },
           "hero_image_URL": {
             "type": "string",
             "description": "The URL of the hero image for the application",
-            "pattern": "^https?:\\/\\/(.+\\.(png|svg|jpg))$"
+            "pattern": "^https?://raw\\.githubusercontent\\.com/osmosis-labs/apps-list/main/images/[a-zA-Z0-9_-]+_hero_image\\.(png|svg|jpg)$"
           },
           "twitter_URL": {
             "type": "string",

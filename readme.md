@@ -8,10 +8,14 @@ To add your application to the list, simply create a pull request to this reposi
 Here are the properties that can be included in your application object:
 
  - **title** (required): The name of your application. This is the main title that users will see when browsing the app store.
- - **subtitle** (required): A short and catchy phrase or tagline that describes your application. This should give users a quick idea of your app's purpose or function.
+ - **subtitle** (required, max 100 characters): A short and catchy phrase or tagline that describes your application. This should give users a quick idea of your app's purpose or function.
  - **external_URL** (required): The web address where users can learn more about your application, such as its official website or landing page.
- - **thumbnail_image_URL** (required; Aspect Ratio 5:3, Minimum Resolution: 525x315): The web address of a representative image or icon for your application. This image will be displayed alongside your app's title and subtitle in the app store.
- - **hero_image_URL** (required; Aspect Ratio 10:4, Minimum Resolution: 1446x579): The web address of a larger, eye-catching image that showcases your application. This image will be prominently displayed on your app's individual page within the app store.
+ - **thumbnail_image_URL** (required): The web address of a representative image or icon for your application. This image will be displayed alongside your app's title and subtitle in the app store.
+   - Aspect Ratio 5:3, Minimum Resolution: 525x315
+   - Uploaded to this repository as: ./images/{app}_thumbnail.{ext}
+ - **hero_image_URL** (required): The web address (uploaded to this repository) of a larger, eye-catching image that showcases your application. This image will be prominently displayed on your app's individual page within the app store.
+   - Aspect Ratio 10:4, Minimum Resolution: 1446x579
+   - Uploaded to this repository as: ./images/{app}_hero.{ext}
  - **twitter_URL** (optional, include if available): The web address of your application's official Twitter account. Providing this link enables users to follow your app's updates on Twitter.
  - **medium_URL** (optional, include if available): The web address of your application's official Medium account or blog. This link will direct users to articles or blog posts related to your app.
  - **github_URL** (optional, include if available): The web address of your application's source code repository on GitHub. Providing this link enables users to access and contribute to your app's codebase.
@@ -24,8 +28,8 @@ Here's an example of what your application object should look like:
   "title": "ION DAO",
   "subtitle": "$ION is the secondary native token on @OsmosisZone",
   "external_URL": "https://ion.wtf",
-  "thumbnail_image_URL": "https://iondao.com/images/thumb.png",
-  "hero_image_URL": "https://iondao.com/images/hero.png",
+  "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_thumbnail.png",
+  "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_hero.png",
   "twitter_URL": "https://twitter.com/_IONDAO",
   "medium_URL": "https://medium.com/_IONDAO",
   "github_URL": "https://github.com/many-things/ion-dao-contracts",

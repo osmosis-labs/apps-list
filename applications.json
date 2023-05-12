@@ -24,13 +24,13 @@
     },
     {
       "title": "Mars Farm",
-      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults! Proceed with caution fellow farmer. Riches and ruins lie ahead.",
+      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
       "external_URL": "https://mars.osmosis.zone/farm",
-      "thumbnail_image_URL": "????",
-      "hero_image_URL": "????",
-      "twitter_URL": "https://twitter.com/mars_protocol",
-      "medium_URL": "https://mars-protocol.medium.com/",
-      "github_URL": "https://github.com/mars-protocol",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_hero.jpg",
+      "twitter_URL": "https://twitter.marsprotocol.io",
+      "medium_URL": "https://medium.marsprotocol.io",
+      "github_URL": "https://github.marsprotocol.io",
       "featured": false
     },
     {

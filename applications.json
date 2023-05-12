@@ -43,6 +43,17 @@
       "medium_URL": "https://bitsongofficial.medium.com/",
       "github_URL": "https://github.com/bitsongofficial/sinfonia-ui",
       "featured": false
+    },
+    {
+      "title": "REStake",
+      "subtitle": "Auto-compound your staking rewards and setup your own custom Authz grants for any chain in the Cosmos ecosystem.",
+      "external_URL": "https://restake.app/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_hero.png",
+      "twitter_URL": "https://twitter.com/REStakeApp",
+      "medium_URL": "",
+      "github_URL": "https://github.com/eco-stake/restake",
+      "featured": false
     }
   ]
 }

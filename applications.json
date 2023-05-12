@@ -23,6 +23,17 @@
       "featured": false
     },
     {
+      "title": "Mars Farm",
+      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
+      "external_URL": "https://mars.osmosis.zone/farm",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_hero.jpg",
+      "twitter_URL": "https://twitter.marsprotocol.io",
+      "medium_URL": "https://medium.marsprotocol.io",
+      "github_URL": "https://github.marsprotocol.io",
+      "featured": false
+    },
+    {
       "title": "Kado",
       "subtitle": "Instantly Buy & Sell Crypto. Onboard to Osmosis in less than 5 minutes.",
       "external_URL": "https://app.kado.money/",

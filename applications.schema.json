@@ -13,33 +13,38 @@
           },
           "subtitle": {
             "type": "string",
-            "description": "The subtitle of the application"
+            "description": "The subtitle of the application",
+            "maxLength": 100
           },
           "external_URL": {
             "type": "string",
-            "description": "The URL to the external site of the application"
+            "description": "The URL to the external site of the application",
+            "format": "uri"
           },
           "thumbnail_image_URL": {
             "type": "string",
             "description": "The URL of the thumbnail image for the application",
-            "pattern": "^https:\\/\\/(.+\\.(png|svg|jpg))$"
+            "pattern": "^https?://raw\\.githubusercontent\\.com/osmosis-labs/apps-list/main/images/[a-zA-Z0-9_-]+_thumbnail\\.(png|svg|jpg)$"
           },
           "hero_image_URL": {
             "type": "string",
             "description": "The URL of the hero image for the application",
-            "pattern": "^https:\\/\\/(.+\\.(png|svg|jpg))$"
+            "pattern": "^https?://raw\\.githubusercontent\\.com/osmosis-labs/apps-list/main/images/[a-zA-Z0-9_-]+_hero\\.(png|svg|jpg)$"
           },
           "twitter_URL": {
             "type": "string",
-            "description": "The URL of the Twitter account for the application"
+            "description": "The URL of the Twitter account for the application",
+            "format": "uri"
           },
           "medium_URL": {
             "type": "string",
-            "description": "The URL of the Medium account for the application"
+            "description": "The URL of the Medium account for the application",
+            "format": "uri"
           },
           "github_URL": {
             "type": "string",
-            "description": "The URL of the GitHub account for the application"
+            "description": "The URL of the GitHub account for the application",
+            "format": "uri"
           },
           "featured": {
             "type": "boolean",

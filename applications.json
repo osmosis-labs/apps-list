@@ -65,6 +65,17 @@
       "medium_URL": "",
       "github_URL": "https://github.com/eco-stake/restake",
       "featured": false
+    },
+    {
+      "title": "ICNS",
+      "subtitle": "InterChain Name Service. Your name for the interchain.",
+      "external_URL": "https://www.icns.xyz/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_hero.png",
+      "twitter_URL": "https://twitter.com/icns_xyz",
+      "medium_URL": "https://medium.com/@icns",
+      "github_URL": "https://github.com/icns-xyz/icns",
+      "featured": false
     }
   ]
 }

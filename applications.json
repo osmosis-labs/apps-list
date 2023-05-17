@@ -87,6 +87,17 @@
       "medium_URL": "https://medium.com/@tfm.com",
       "github_URL": "https://github.com/tfm-com",
       "featured": false
+    },
+    {
+      "title": "Calculated Finance",
+      "subtitle": "Harness volatility for better returns with the smartest way to enter and exit positions.",
+      "external_URL": "https://calculated.fi/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.png",
+      "twitter_URL": "https://twitter.com/CALC_Finance",
+      "medium_URL": "https://medium.com/@calculated.fi",
+      "github_URL": "https://github.com/calculated-finance",
+      "featured": false
     }
   ]
 }

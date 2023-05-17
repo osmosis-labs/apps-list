@@ -67,6 +67,39 @@
       "featured": false
     },
     {
+      "title": "ICNS",
+      "subtitle": "InterChain Name Service. Your name for the interchain.",
+      "external_URL": "https://www.icns.xyz/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_hero.png",
+      "twitter_URL": "https://twitter.com/icns_xyz",
+      "medium_URL": "https://medium.com/@icns",
+      "github_URL": "https://github.com/icns-xyz/icns",
+      "featured": false
+    },
+    {
+      "title": "TFM Pro Trading",
+      "subtitle": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator! Transfer via IBC across all Cosmos app-chains.",
+      "external_URL": "https://tfm.com/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_hero.png",
+      "twitter_URL": "https://twitter.com/tfm_com",
+      "medium_URL": "https://medium.com/@tfm.com",
+      "github_URL": "https://github.com/tfm-com",
+      "featured": false
+    },
+    {
+      "title": "Calculated Finance",
+      "subtitle": "Harness volatility for better returns with the smartest way to enter and exit positions.",
+      "external_URL": "https://calculated.fi/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.png",
+      "twitter_URL": "https://twitter.com/CALC_Finance",
+      "medium_URL": "https://medium.com/@calculated.fi",
+      "github_URL": "https://github.com/calculated-finance",
+      "featured": false
+    },
+    {
       "title": "Yieldmos",
       "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
       "external_URL": "https://www.yieldmos.com/",

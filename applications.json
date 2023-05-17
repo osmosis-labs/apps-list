@@ -109,6 +109,17 @@
       "medium_URL": "https://medium.com/@yieldmos",
       "github_URL": "https://github.com/yieldmos/",
       "featured": false
+    },
+    {
+      "title": "IBCX",
+      "subtitle": "$IBCX is a Cosmos index token designed to benchmark the leading Cosmos tokens’ performance.",
+      "external_URL": "https://index.ion.wtf/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ibcx_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ibcx_hero.png",
+      "twitter_URL": "https://twitter.com/IBCindex",
+      "medium_URL": "https://medium.com/@IBCindex",
+      "github_URL": "https://github.com/many-things/ibcx-contracts",
+      "featured": false
     }
   ]
 }

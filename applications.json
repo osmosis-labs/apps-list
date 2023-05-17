@@ -12,14 +12,25 @@
       "featured": false
     },
     {
-      "title": "Mars Protocol",
-      "subtitle": "Decentralized finance infrastructure for the Binance Smart Chain ecosystem",
-      "external_URL": "https://marsprotocol.com",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_protocol_thumbnail.svg",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_protocol_hero.svg",
-      "twitter_URL": "https://twitter.com/mars_protocol",
-      "medium_URL": "https://medium.com/marsprotocol",
-      "github_URL": "https://github.com/marsprotocol",
+      "title": "Mars Red Bank",
+      "subtitle": "Lend and borrow money with the Osmosis Blockchain.",
+      "external_URL": "https://mars.osmosis.zone/redbank",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_hero.jpg",
+      "twitter_URL": "https://twitter.marsprotocol.io",
+      "medium_URL": "https://medium.marsprotocol.io/",
+      "github_URL": "https://github.marsprotocol.io",
+      "featured": false
+    },
+    {
+      "title": "Mars Farm",
+      "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
+      "external_URL": "https://mars.osmosis.zone/farm",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_hero.jpg",
+      "twitter_URL": "https://twitter.marsprotocol.io",
+      "medium_URL": "https://medium.marsprotocol.io",
+      "github_URL": "https://github.marsprotocol.io",
       "featured": false
     },
     {
@@ -42,6 +53,61 @@
       "twitter_URL": "https://twitter.com/sinfoniazone",
       "medium_URL": "https://bitsongofficial.medium.com/",
       "github_URL": "https://github.com/bitsongofficial/sinfonia-ui",
+      "featured": false
+    },
+    {
+      "title": "REStake",
+      "subtitle": "Auto-compound your staking rewards and setup your own custom Authz grants for any chain in the Cosmos ecosystem.",
+      "external_URL": "https://restake.app/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_hero.png",
+      "twitter_URL": "https://twitter.com/REStakeApp",
+      "medium_URL": "",
+      "github_URL": "https://github.com/eco-stake/restake",
+      "featured": false
+    },
+    {
+      "title": "ICNS",
+      "subtitle": "InterChain Name Service. Your name for the interchain.",
+      "external_URL": "https://www.icns.xyz/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_thumbnail.jpg",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/icns_hero.png",
+      "twitter_URL": "https://twitter.com/icns_xyz",
+      "medium_URL": "https://medium.com/@icns",
+      "github_URL": "https://github.com/icns-xyz/icns",
+      "featured": false
+    },
+    {
+      "title": "TFM Pro Trading",
+      "subtitle": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator! Transfer via IBC across all Cosmos app-chains.",
+      "external_URL": "https://tfm.com/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_hero.png",
+      "twitter_URL": "https://twitter.com/tfm_com",
+      "medium_URL": "https://medium.com/@tfm.com",
+      "github_URL": "https://github.com/tfm-com",
+      "featured": false
+    },
+    {
+      "title": "Calculated Finance",
+      "subtitle": "Harness volatility for better returns with the smartest way to enter and exit positions.",
+      "external_URL": "https://calculated.fi/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.png",
+      "twitter_URL": "https://twitter.com/CALC_Finance",
+      "medium_URL": "https://medium.com/@calculated.fi",
+      "github_URL": "https://github.com/calculated-finance",
+      "featured": false
+    },
+    {
+      "title": "Yieldmos",
+      "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
+      "external_URL": "https://www.yieldmos.com/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_hero.png",
+      "twitter_URL": "https://twitter.com/yieldmos",
+      "medium_URL": "https://medium.com/@yieldmos",
+      "github_URL": "https://github.com/yieldmos/",
       "featured": false
     },
     {

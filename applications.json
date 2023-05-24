@@ -113,12 +113,12 @@
     {
       "title": "ION DAO",
       "subtitle": "Decentralized autonomous organization for community governance of $ION and $IBCX",
-      "external_URL": "https://iondao.com",
+      "external_URL": "https://ion.wtf/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_thumbnail.png",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_hero.png",
-      "twitter_URL": "https://twitter.com/ion_dao",
-      "medium_URL": "https://medium.com/iondao",
-      "github_URL": "https://github.com/iondao",
+      "twitter_URL": "https://twitter.com/_IONDAO",
+      "medium_URL": "",
+      "github_URL": "https://github.com/many-things/ion-dao-contracts",
       "featured": false
     }
   ]

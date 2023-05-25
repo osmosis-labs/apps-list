@@ -135,9 +135,7 @@ function process_air_table_data() {
             }
         };
 
-        if (!git_hub_data_map.get(project.title)?.internal_data?.project_listing_date) {
-            project.internal_data.project_listing_date = currentDateTime;
-        }
+        project.internal_data.project_listing_date = git_hub_data_map.get(project.title)?.internal_data?.project_listing_date ?? currentDateTime;
 
         // -- COPY PROJECT PROPERTIES --
         Object.keys(project).forEach((property) => {

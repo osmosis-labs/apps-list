@@ -49,6 +49,11 @@
           "featured": {
             "type": "boolean",
             "description": "Indicates whether the application is featured or not"
+          },
+          "internal_data": {
+            "type": "object",
+            "description": "For internal use only",
+            "additionalProperties": true
           }
         },
         "required": ["title", "external_URL", "thumbnail_image_URL", "hero_image_URL"],

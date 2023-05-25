@@ -135,7 +135,7 @@ function process_air_table_data() {
             }
         };
 
-        if (!git_hub_project.internal_data.project_listing_date) {
+        if (!git_hub_data_map.get(project.title)?.internal_data?.project_listing_date) {
             project.internal_data.project_listing_date = currentDateTime;
         }
 
@@ -154,17 +154,12 @@ function process_air_table_data() {
         // -- GET IMAGE SIZES --
         let thumbnail_size = 0;
         let hero_size = 0;
-        if (git_hub_data_map.get(project.title)) {
-            if (git_hub_data_map.get(project.title).internal_data) {
-                if (git_hub_data_map.get(project.title).internal_data.thumbnail_size) {
-                    thumbnail_size = git_hub_data_map.get(project.title).internal_data.thumbnail_size;
-                }
-                if (git_hub_data_map.get(project.title).internal_data.hero_size) {
-                    thumbnail_size = git_hub_data_map.get(project.title).internal_data.hero_size;
-                }
-            }
+        if (git_hub_data_map.get(project.title)?.internal_data?.thumbnail_size) {
+            thumbnail_size = git_hub_data_map.get(project.title).internal_data.thumbnail_size;
         }
-
+        if (git_hub_data_map.get(project.title)?.internal_data?.hero_size) {
+            thumbnail_size = git_hub_data_map.get(project.title).internal_data.hero_size;
+        }
 
 
         // -- GET THUMBNAIL IMAGE --

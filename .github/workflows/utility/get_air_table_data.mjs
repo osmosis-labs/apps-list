@@ -5,9 +5,7 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs';
 
-const outputDirectory = ".";
-const outputFileName = "applications.json";
-const outputFilePath = `${outputDirectory}/${outputFileName}`;
+const outputFilePath = "./applications.json";
 const imagesDirectory = './images';
 
 const air_table_url = 'https://api.airtable.com/v0/appWoI7NdLmgK8Vyx/App%20Store?view=Grid%20view';
@@ -135,7 +133,7 @@ function process_air_table_data() {
             }
         };
 
-        project.internal_data.project_listing_date = git_hub_data_map.get(project.title)?.internal_data?.project_listing_date ?? currentDateTime;
+        project.internal_data.project_listing_date = git_hub_data_map.get(record.fields.title)?.internal_data?.project_listing_date ?? currentDateTime;
 
         // -- COPY PROJECT PROPERTIES --
         Object.keys(project).forEach((property) => {

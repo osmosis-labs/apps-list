@@ -13,7 +13,7 @@
       "internal_data": {
         "thumbnail_size": 585918,
         "hero_size": 500200,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -29,7 +29,7 @@
       "internal_data": {
         "thumbnail_size": 44742,
         "hero_size": 67146,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -45,7 +45,7 @@
       "internal_data": {
         "thumbnail_size": 62478,
         "hero_size": 80820,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -61,7 +61,7 @@
       "internal_data": {
         "thumbnail_size": 61300,
         "hero_size": 51314,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -77,7 +77,7 @@
       "internal_data": {
         "thumbnail_size": 21062,
         "hero_size": 27430,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -93,7 +93,7 @@
       "internal_data": {
         "thumbnail_size": 46684,
         "hero_size": 100854,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -109,7 +109,7 @@
       "internal_data": {
         "thumbnail_size": 4084,
         "hero_size": 57120,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -125,7 +125,7 @@
       "internal_data": {
         "thumbnail_size": 13152,
         "hero_size": 337276,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -141,7 +141,7 @@
       "internal_data": {
         "thumbnail_size": 27200,
         "hero_size": 22112,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -157,23 +157,23 @@
       "internal_data": {
         "thumbnail_size": 14986,
         "hero_size": 35874,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
       "title": "ION DAO",
       "subtitle": "Decentralized autonomous organization for community governance",
-      "external_URL": "https://iondao.com",
+      "external_URL": "https://ion.wtf",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_hero.webp",
-      "twitter_URL": "https://twitter.com/ion_dao",
+      "twitter_URL": "https://twitter.com/_IONDAO",
       "medium_URL": "",
       "github_URL": "https://github.com/many-things/ion-dao-contracts",
       "featured": false,
       "internal_data": {
         "thumbnail_size": 181078,
         "hero_size": 116680,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     },
     {
@@ -189,7 +189,7 @@
       "internal_data": {
         "thumbnail_size": 134210,
         "hero_size": 40306,
-        "project_listing_date": "2023-05-25T20:00:47.688Z"
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
     }
   ]

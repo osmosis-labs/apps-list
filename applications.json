@@ -35,7 +35,7 @@
     {
       "title": "Calculated Finance",
       "subtitle": "Harness volatility for better returns with the smartest way to enter and exit positions.",
-      "external_URL": "https://calculated.fi/",
+      "external_URL": "https://app.calculated.fi/?chain=Osmosis",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.webp",
       "twitter_URL": "https://twitter.com/CALC_Finance",
@@ -115,7 +115,7 @@
     {
       "title": "REStake",
       "subtitle": "Auto-compound your staking rewards and setup your own custom Authz grants for any chain in the Cosmos ecosystem.",
-      "external_URL": "https://restake.app/",
+      "external_URL": "https://restake.app/osmosis",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/restake_hero.webp",
       "twitter_URL": "https://twitter.com/REStakeApp",

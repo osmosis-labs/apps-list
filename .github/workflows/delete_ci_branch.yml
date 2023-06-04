@@ -13,10 +13,11 @@ jobs:
       - name: Check if PR is merged
         run: echo "PR state ${{ github.event.pull_request.merged }}"
 
+      - name: Check out code
+        uses: actions/checkout@v2
+
       - name: Delete branch
-        if: >
-          github.event.pull_request.merged == true &&
-          github.event.pull_request.head.ref == 'update/applications'
+        if: github.head.ref == 'update/applications'
         run: |
-          git fetch --prune
-          git branch -d 'update/applications'
+          git fetch --all --prune
+          git branch -D 'update/applications'

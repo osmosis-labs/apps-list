@@ -191,6 +191,22 @@
         "hero_size": 40306,
         "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
+    },
+    {
+      "title": "Autonomy",
+      "subtitle": "Autonomy is a decentralized automation protocol, equipping Web3 developers with advanced automation and features dedicated to DeFi.",
+      "external_URL": "https://osmosis.autoswap.trade/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_hero.webp",
+      "twitter_URL": "https://twitter.com/AutonomyNetwork",
+      "medium_URL": "https://blog.autonomynetwork.io/",
+      "github_URL": "https://github.com/Autonomy-Network",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 67656,
+        "hero_size": 45928,
+        "project_listing_date": "2023-06-06T20:01:36.197Z"
+      }
     }
   ]
 }

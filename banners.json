@@ -1,0 +1,17 @@
+{
+  "banners": [
+    {
+      "name": "Mars Red Bank",
+      "header": "Lend and borrow.",
+      "subheader": "Lend and borrow money with the Osmosis Blockchain.",
+      "external_URL": "https://mars.osmosis.zone/redbank",
+      "icon_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_thumbnail.webp",
+      "gradient": "https://twitter.marsprotocol.io",
+      "featured": true,
+      "internal_data": {
+        "icon_size": 585918,
+        "project_listing_date": "2023-05-30T15:32:59.804Z"
+      }
+    }
+  ]
+}

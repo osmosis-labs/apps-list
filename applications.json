@@ -1,6 +1,22 @@
 {
   "applications": [
     {
+      "title": "Levana Perps",
+      "subtitle": "Fully-collateralized, low cost perpetual swaps",
+      "external_URL": "https://www.levana.finance/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/levana_perps_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/levana_perps_hero.webp",
+      "twitter_URL": "https://twitter.com/Levana_protocol",
+      "medium_URL": "https://medium.com/levana-protocol",
+      "github_URL": "https://github.com/levana-Protocol/",
+      "featured": true,
+      "internal_data": {
+        "thumbnail_size": 1232094,
+        "hero_size": 1685306,
+        "project_listing_date": "2023-07-17T17:32:58.873Z"
+      }
+    },
+    {
       "title": "Mars Red Bank",
       "subtitle": "Lend and borrow money with the Osmosis Blockchain.",
       "external_URL": "https://mars.osmosis.zone/redbank",
@@ -9,7 +25,7 @@
       "twitter_URL": "https://twitter.marsprotocol.io",
       "medium_URL": "https://medium.marsprotocol.io/",
       "github_URL": "https://github.marsprotocol.io",
-      "featured": true,
+      "featured": false,
       "internal_data": {
         "thumbnail_size": 585918,
         "hero_size": 500200,
@@ -99,7 +115,7 @@
     {
       "title": "Sinfonia",
       "subtitle": "Your Web3Music dApp powered by BitSong.",
-      "external_URL": "http://sinfonia.zone",
+      "external_URL": "https://sinfonia.zone",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/sinfonia_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/sinfonia_hero.webp",
       "twitter_URL": "https://twitter.com/sinfoniazone",
@@ -167,7 +183,7 @@
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/ion_dao_hero.webp",
       "twitter_URL": "https://twitter.com/_IONDAO",
-      "medium_URL": "",
+      "medium_URL": "https://medium.com/@IBCindex",
       "github_URL": "https://github.com/many-things/ion-dao-contracts",
       "featured": false,
       "internal_data": {
@@ -178,12 +194,12 @@
     },
     {
       "title": "Apollo Safe",
-      "subtitle": "Multi-Sig Manager for Cosmos",
+      "subtitle": "Apollo Safe is the easiest way to secure, manage and govern a wallet with multiple members",
       "external_URL": "https://safe.apollo.farm/osmosis-1/overview",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/apollo_safe_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/apollo_safe_hero.webp",
       "twitter_URL": "https://twitter.com/apollodao",
-      "medium_URL": "",
+      "medium_URL": "https://articles.apollo.farm/",
       "github_URL": "https://github.com/CosmWasm/cw-plus/blob/main/packages/cw3/README.md",
       "featured": false,
       "internal_data": {

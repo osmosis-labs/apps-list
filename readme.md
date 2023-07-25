@@ -4,6 +4,17 @@ Osmosis Apps List is a curated list of applications built on, or interactive wit
 ## Adding Your Application
 To add your application to the list, simply create a pull request to this repository that includes your application object added to the end of the applications array in the applications.json file. Your application object should include values for all the required properties. Once your pull request is merged, your application will be added to the list!
 
+## Application Image Requirements
+The Osmosis App Store aims for a high standard of quality, and therefore the images for each App must meet certain requirements.
+We require 1) a Cover Image, used for the standard application cards, and 2) a Hero Image for if/when the aplication is Featured at the top. For both images, aim for thematic aesthetic/imagery. Avoid screenshots of the application's UI, and avoid text, like a slogan or a call to action; the only text that we will accept should be part of the logo (and note that the name willl already appear on top of, or adjacent to the image, so it's not required).
+ - Cover Image Specs:
+   - Aspect Ratio 5:3
+   - Minimum Resolution: 525x315
+ - Hero Image Specs:
+   - Aspect Ratio 10:4
+   - Minimum Resolution: 1446x579
+We will accept just about any format (PNG, SVG, JPG), although we prefer to receive .WEBP, as that is that efficient format to which we would convert the images before adding the App. 
+
 ## Application Properties
 Here are the properties that can be included in your application object:
 

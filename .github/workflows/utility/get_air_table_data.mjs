@@ -165,9 +165,15 @@ function process_air_table_data() {
             project.internal_data.thumbnail_size = record.fields.Thumbnail[0].size;
         }
 
-
+        // -- GET HERO IMAGE --
+        if (record.fields.Hero[0].size != hero_size) {
+            let image_name = project.title.toLowerCase().replace(/\s/g, '_') + "_hero.webp";
+            get_image(record.fields.Hero[0].url,image_name);
+            project.internal_data.hero_size = record.fields.Hero[0].size;
+        }
 
         // -- GET HERO IMAGE --
+        /*
         if (record.fields["Hero Image?"]) {
             let hero_image_column = record.fields["Hero Image Column"];
             if (record.fields[hero_image_column][0].size != hero_size) {
@@ -176,6 +182,7 @@ function process_air_table_data() {
                 project.internal_data.hero_size = record.fields[hero_image_column][0].size;
             }
         }
+        */
 
         //console.log(project);
 

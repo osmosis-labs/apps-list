@@ -13,6 +13,7 @@ We require 1) a Cover Image, used for the standard application cards, and 2) a H
  - Hero Image Specs:
    - Aspect Ratio 10:4
    - Minimum Resolution: 1446x579
+
 We will accept just about any format (PNG, SVG, JPG), although we prefer to receive .WEBP, as that is that efficient format to which we would convert the images before adding the App. 
 
 ## Application Properties

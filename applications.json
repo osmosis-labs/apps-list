@@ -51,7 +51,7 @@
     {
       "title": "Quasar Finance",
       "subtitle": "Quasar is the first decentralized asset management platform supercharged with IBC.",
-      "external_URL": "https://www.quasar.fi/",
+      "external_URL": "https://app.quasar.fi/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_hero.webp",
       "twitter_URL": "https://twitter.com/quasarfi",
@@ -83,7 +83,7 @@
     {
       "title": "Levana Perps",
       "subtitle": "Fully-collateralized, low cost perpetual swaps",
-      "external_URL": "https://www.levana.finance/",
+      "external_URL": "https://trade.levana.finance/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/levana_perps_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/levana_perps_hero.webp",
       "twitter_URL": "https://twitter.com/Levana_protocol",
@@ -195,7 +195,7 @@
     {
       "title": "Sinfonia",
       "subtitle": "Your Web3Music dApp powered by BitSong.",
-      "external_URL": "https://sinfonia.zone",
+      "external_URL": "https://app.sinfonia.zone/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/sinfonia_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/sinfonia_hero.webp",
       "twitter_URL": "https://twitter.com/sinfoniazone",
@@ -243,7 +243,7 @@
     {
       "title": "Yieldmos",
       "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
-      "external_URL": "https://www.yieldmos.com/",
+      "external_URL": "https://www.yieldmos.com/chain/osmosis",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_hero.webp",
       "twitter_URL": "https://twitter.com/yieldmos",

@@ -1,6 +1,86 @@
 {
   "applications": [
     {
+      "title": "StreamSwap",
+      "subtitle": "A launchpad for initial token sales. The next generation of LBPs",
+      "external_URL": "https://streamswap.io/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/streamswap_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/streamswap_hero.webp",
+      "twitter_URL": "https://twitter.com/StreamSwap_io",
+      "medium_URL": "https://mirror.xyz/streamswapprotocol.eth",
+      "github_URL": "https://github.com/StreamSwapProtocol/cw-streamswap",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 44736,
+        "hero_size": 55342,
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
+      "title": "Nolus Protocol",
+      "subtitle": "Nolus Protocol is a Web3 financial suite that offers an innovative approach to money markets with a novel lease solution to further develop the DeFi space.",
+      "external_URL": "https://nolus.io/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/nolus_protocol_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/nolus_protocol_hero.webp",
+      "twitter_URL": "https://twitter.com/NolusProtocol",
+      "medium_URL": "https://medium.com/nolusprotocol",
+      "github_URL": "https://github.com/Nolus-Protocol",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 34536,
+        "hero_size": 1030524,
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
+      "title": "Pulsar Finance",
+      "subtitle": "Track your portfolio performance across 70+ blockchains in a single place, from Tokens to DeFi & NFTs.",
+      "external_URL": "https://pulsar.finance/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/pulsar_finance_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/pulsar_finance_hero.webp",
+      "twitter_URL": "https://twitter.com/PulsarFinance",
+      "medium_URL": "",
+      "github_URL": "https://github.com/PulsarDefi/",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 64186,
+        "hero_size": 961772,
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
+      "title": "Quasar Finance",
+      "subtitle": "Quasar is the first decentralized asset management platform supercharged with IBC.",
+      "external_URL": "https://www.quasar.fi/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_hero.webp",
+      "twitter_URL": "https://twitter.com/quasarfi",
+      "medium_URL": "https://www.quasar.fi/blog",
+      "github_URL": "https://github.com/quasar-finance/",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 9132,
+        "hero_size": 24884,
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
+      "title": "Stride",
+      "subtitle": "Liquid staking for the Cosmos. Enables you to transfer, trade, and borrow against your tokens - without missing any staking rewards.",
+      "external_URL": "https://app.stride.zone/?chain=OSMO",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/stride_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/stride_hero.webp",
+      "twitter_URL": "https://twitter.com/stride_zone",
+      "medium_URL": "https://medium.com/@stride_zone",
+      "github_URL": "https://github.com/Stride-Labs/stride",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 76692,
+        "hero_size": 85092,
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
       "title": "Levana Perps",
       "subtitle": "Fully-collateralized, low cost perpetual swaps",
       "external_URL": "https://www.levana.finance/",
@@ -209,11 +289,11 @@
       }
     },
     {
-      "title": "Autonomy",
-      "subtitle": "Autonomy is a decentralized automation protocol, equipping Web3 developers with advanced automation and features dedicated to DeFi.",
+      "title": "Autonomy AutoSwap",
+      "subtitle": "Limit orders and Stop Losses on your favorite DEXs",
       "external_URL": "https://osmosis.autoswap.trade/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_hero.webp",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_autoswap_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/autonomy_autoswap_hero.webp",
       "twitter_URL": "https://twitter.com/AutonomyNetwork",
       "medium_URL": "https://blog.autonomynetwork.io/",
       "github_URL": "https://github.com/Autonomy-Network",
@@ -221,7 +301,7 @@
       "internal_data": {
         "thumbnail_size": 67656,
         "hero_size": 45928,
-        "project_listing_date": "2023-06-06T20:01:36.197Z"
+        "project_listing_date": "2023-07-31T22:34:16.961Z"
       }
     }
   ]

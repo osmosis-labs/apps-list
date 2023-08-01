@@ -75,7 +75,7 @@
       "github_URL": "https://github.com/Stride-Labs/stride",
       "featured": false,
       "internal_data": {
-        "thumbnail_size": 76692,
+        "thumbnail_size": 46620,
         "hero_size": 85092,
         "project_listing_date": "2023-07-31T22:34:16.961Z"
       }
@@ -103,7 +103,7 @@
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_hero.webp",
       "twitter_URL": "https://twitter.marsprotocol.io",
-      "medium_URL": "https://medium.marsprotocol.io/",
+      "medium_URL": "https://medium.marsprotocol.io",
       "github_URL": "https://github.marsprotocol.io",
       "featured": false,
       "internal_data": {

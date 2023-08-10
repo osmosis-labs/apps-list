@@ -51,7 +51,7 @@
     {
       "title": "Quasar Finance",
       "subtitle": "Quasar is the first decentralized asset management platform supercharged with IBC.",
-      "external_URL": "https://app.quasar.fi/",
+      "external_URL": "https://www.quasar.fi/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/quasar_finance_hero.webp",
       "twitter_URL": "https://twitter.com/quasarfi",
@@ -150,9 +150,9 @@
       "external_URL": "https://tfm.com/osmosis/trade/protrade/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/tfm_pro_trading_hero.webp",
-      "twitter_URL": "https://twitter.com/tfm_com",
-      "medium_URL": "https://medium.com/@tfm.com",
-      "github_URL": "https://github.com/tfm-com",
+      "twitter_URL": "",
+      "medium_URL": "",
+      "github_URL": "",
       "featured": false,
       "internal_data": {
         "thumbnail_size": 4084,
@@ -242,7 +242,7 @@
     },
     {
       "title": "Yieldmos",
-      "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
+      "subtitle": "Boost yields by auto compounding your staking and LP rewards with validators of your choice",
       "external_URL": "https://www.yieldmos.com/chain/osmosis",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/yieldmos_hero.webp",

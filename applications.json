@@ -25,7 +25,7 @@
       "twitter_URL": "https://twitter.com/NolusProtocol",
       "medium_URL": "https://medium.com/nolusprotocol",
       "github_URL": "https://github.com/Nolus-Protocol",
-      "featured": false,
+      "featured": true,
       "internal_data": {
         "thumbnail_size": 34536,
         "hero_size": 1030524,
@@ -89,7 +89,7 @@
       "twitter_URL": "https://twitter.com/Levana_protocol",
       "medium_URL": "https://medium.com/levana-protocol",
       "github_URL": "https://github.com/levana-Protocol/",
-      "featured": true,
+      "featured": false,
       "internal_data": {
         "thumbnail_size": 1232094,
         "hero_size": 1685306,

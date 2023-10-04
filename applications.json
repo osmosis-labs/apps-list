@@ -18,17 +18,17 @@
     },
     {
       "title": "Nolus Protocol",
-      "subtitle": "Nolus Protocol is a Web3 financial suite that offers an innovative approach to money markets with a novel lease solution to further develop the DeFi space.",
+      "subtitle": "Boost your holdings with the Nolus DeFi Lease! Enjoy a threefold increase in your equity and benefit from 0% interest!",
       "external_URL": "https://app.nolus.io/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/nolus_protocol_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/nolus_protocol_hero.webp",
       "twitter_URL": "https://twitter.com/NolusProtocol",
       "medium_URL": "https://medium.com/nolusprotocol",
       "github_URL": "https://github.com/Nolus-Protocol",
-      "featured": false,
+      "featured": true,
       "internal_data": {
-        "thumbnail_size": 34536,
-        "hero_size": 1030524,
+        "thumbnail_size": 236732,
+        "hero_size": 307408,
         "project_listing_date": "2023-07-31T22:34:16.961Z"
       }
     },
@@ -89,7 +89,7 @@
       "twitter_URL": "https://twitter.com/Levana_protocol",
       "medium_URL": "https://medium.com/levana-protocol",
       "github_URL": "https://github.com/levana-Protocol/",
-      "featured": true,
+      "featured": false,
       "internal_data": {
         "thumbnail_size": 1232094,
         "hero_size": 1685306,

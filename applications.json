@@ -25,7 +25,7 @@
       "twitter_URL": "https://twitter.com/NolusProtocol",
       "medium_URL": "https://medium.com/nolusprotocol",
       "github_URL": "https://github.com/Nolus-Protocol",
-      "featured": true,
+      "featured": false,
       "internal_data": {
         "thumbnail_size": 236732,
         "hero_size": 307408,
@@ -286,6 +286,22 @@
         "thumbnail_size": 134210,
         "hero_size": 40306,
         "project_listing_date": "2023-05-30T15:32:59.804Z"
+      }
+    },
+    {
+      "title": "Margined Protocol",
+      "subtitle": "Go long on leveraged assets using power perpetuals without risk of liquidation!",
+      "external_URL": "https://trade.margined.io",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_hero.webp",
+      "twitter_URL": "https://twitter.com/margined_io",
+      "medium_URL": "https://medium.com/@margined_io",
+      "github_URL": "https://github.com/margined-protocol",
+      "featured": true,
+      "internal_data": {
+        "thumbnail_size": 48912,
+        "hero_size": 91364,
+        "project_listing_date": "2023-11-09T03:12:31.315Z"
       }
     }
   ]

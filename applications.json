@@ -303,6 +303,22 @@
         "hero_size": 91364,
         "project_listing_date": "2023-11-09T03:12:31.315Z"
       }
+    },
+    {
+      "title": "Membrane",
+      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
+      "external_URL": "https://membrane-ui-mainnet.vercel.app/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_hero.webp",
+      "twitter_URL": "https://twitter.com/insaneinthembrn",
+      "medium_URL": "https://medium.com/@membranefinance",
+      "github_URL": "https://github.com/MembraneFinance",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 105051,
+        "hero_size": 482129,
+        "project_listing_date": "2023-11-11T20:13:57.458Z"
+      }
     }
   ]
 }

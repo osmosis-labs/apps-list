@@ -99,7 +99,7 @@
     {
       "title": "Mars Red Bank",
       "subtitle": "Lend and borrow money with the Osmosis Blockchain.",
-      "external_URL": "https://mars.osmosis.zone/redbank",
+      "external_URL": "https://app.marsprotocol.io/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_red_bank_hero.webp",
       "twitter_URL": "https://twitter.marsprotocol.io",
@@ -163,7 +163,7 @@
     {
       "title": "Mars Farm",
       "subtitle": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
-      "external_URL": "https://mars.osmosis.zone/farm",
+      "external_URL": "https://app.marsprotocol.io/",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/mars_farm_hero.webp",
       "twitter_URL": "https://twitter.marsprotocol.io",

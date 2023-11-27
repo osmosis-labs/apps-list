@@ -1,6 +1,22 @@
 {
   "applications": [
     {
+      "title": "Membrane",
+      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
+      "external_URL": "https://membrane-ui-mainnet.vercel.app/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_hero.webp",
+      "twitter_URL": "https://twitter.com/insaneinthembrn",
+      "medium_URL": "https://medium.com/@membranefinance",
+      "github_URL": "https://github.com/MembraneFinance",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 105051,
+        "hero_size": 482129,
+        "project_listing_date": "2023-11-11T20:13:57.458Z"
+      }
+    },
+    {
       "title": "StreamSwap",
       "subtitle": "A launchpad for initial token sales. The next generation of LBPs",
       "external_URL": "https://app.streamswap.io/",
@@ -130,7 +146,7 @@
     },
     {
       "title": "Calculated Finance",
-      "subtitle": "Harness volatility for better returns with the smartest way to enter and exit positions.",
+      "subtitle": "Create DCA (Dollar Cost Averaging) strategies. Experience the smartest way to enter and exit your crypto positions.",
       "external_URL": "https://app.calculated.fi/?chain=Osmosis",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.webp",
@@ -302,22 +318,6 @@
         "thumbnail_size": 48912,
         "hero_size": 91364,
         "project_listing_date": "2023-11-09T03:12:31.315Z"
-      }
-    },
-    {
-      "title": "Membrane",
-      "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
-      "external_URL": "https://membrane-ui-mainnet.vercel.app/",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/membrane_hero.webp",
-      "twitter_URL": "https://twitter.com/insaneinthembrn",
-      "medium_URL": "https://medium.com/@membranefinance",
-      "github_URL": "https://github.com/MembraneFinance",
-      "featured": false,
-      "internal_data": {
-        "thumbnail_size": 105051,
-        "hero_size": 482129,
-        "project_listing_date": "2023-11-11T20:13:57.458Z"
       }
     }
   ]

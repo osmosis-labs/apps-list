@@ -147,7 +147,7 @@
     {
       "title": "Calculated Finance",
       "subtitle": "Create DCA (Dollar Cost Averaging) strategies. Experience the smartest way to enter and exit your crypto positions.",
-      "external_URL": "https://app.calculated.fi/?chain=Osmosis",
+      "external_URL": "https://app.calculated.fi/?chain=osmosis-1",
       "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_thumbnail.webp",
       "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/calculated_finance_hero.webp",
       "twitter_URL": "https://twitter.com/CALC_Finance",

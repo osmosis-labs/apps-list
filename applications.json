@@ -1,6 +1,22 @@
 {
   "applications": [
     {
+      "title": "MilkyWay",
+      "subtitle": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
+      "external_URL": "https://www.milkyway.zone/",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/milkyway_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/milkyway_hero.webp",
+      "twitter_URL": "https://twitter.com/milky_way_zone",
+      "medium_URL": "https://medium.com/milkyway-zone",
+      "github_URL": "https://github.com/milkyway-labs/",
+      "featured": true,
+      "internal_data": {
+        "thumbnail_size": 584212,
+        "hero_size": 353485,
+        "project_listing_date": "2024-01-04T19:54:20.999Z"
+      }
+    },
+    {
       "title": "Membrane",
       "subtitle": "Mint the global medium of exchange in the form of an over-collateralized stablecoin: $CDT",
       "external_URL": "https://membrane-ui-mainnet.vercel.app/",
@@ -62,6 +78,22 @@
         "thumbnail_size": 64186,
         "hero_size": 961772,
         "project_listing_date": "2023-07-31T22:34:16.961Z"
+      }
+    },
+    {
+      "title": "Margined Protocol",
+      "subtitle": "Go long on leveraged assets using power perpetuals without risk of liquidation!",
+      "external_URL": "https://trade.margined.io",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_thumbnail.webp",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_hero.webp",
+      "twitter_URL": "https://twitter.com/margined_io",
+      "medium_URL": "https://medium.com/@margined_io",
+      "github_URL": "https://github.com/margined-protocol",
+      "featured": false,
+      "internal_data": {
+        "thumbnail_size": 48912,
+        "hero_size": 91364,
+        "project_listing_date": "2023-11-09T03:12:31.315Z"
       }
     },
     {
@@ -302,22 +334,6 @@
         "thumbnail_size": 134210,
         "hero_size": 40306,
         "project_listing_date": "2023-05-30T15:32:59.804Z"
-      }
-    },
-    {
-      "title": "Margined Protocol",
-      "subtitle": "Go long on leveraged assets using power perpetuals without risk of liquidation!",
-      "external_URL": "https://trade.margined.io",
-      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_thumbnail.webp",
-      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/margined_protocol_hero.webp",
-      "twitter_URL": "https://twitter.com/margined_io",
-      "medium_URL": "https://medium.com/@margined_io",
-      "github_URL": "https://github.com/margined-protocol",
-      "featured": true,
-      "internal_data": {
-        "thumbnail_size": 48912,
-        "hero_size": 91364,
-        "project_listing_date": "2023-11-09T03:12:31.315Z"
       }
     }
   ]

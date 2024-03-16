@@ -335,6 +335,17 @@
         "hero_size": 40306,
         "project_listing_date": "2023-05-30T15:32:59.804Z"
       }
+    },
+    {
+      "title": "ReframeBot",
+      "subtitle": "Telegram trading bot companion for Osmosis",
+      "external_URL": "https://reframe.bot",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/reframebot_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/reframebot_hero.png",
+      "twitter_URL": "https://twitter.com/reframe_bot",
+      "medium_URL": "https://reframebot.medium.com/",
+      "github_URL": "https://github.com/reframe-bot",
+      "featured": false
     }
   ]
 }

@@ -346,6 +346,15 @@
       "medium_URL": "https://reframebot.medium.com/",
       "github_URL": "https://github.com/reframe-bot",
       "featured": false
+    },
+    {
+      "title": "Isaac",
+      "subtitle": "Trade any token in Cosmos using Telegram.",
+      "external_URL": "https://isaac.finance",
+      "thumbnail_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/isaac_thumbnail.png",
+      "hero_image_URL": "https://raw.githubusercontent.com/osmosis-labs/apps-list/main/images/isaac_hero.png",
+      "twitter_URL": "https://twitter.com/trade_isaac",
+      "featured": false
     }
   ]
 }

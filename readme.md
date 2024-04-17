@@ -1,3 +1,8 @@
+*DEPRECATED: This repo is deprecated and has been moved to:  https://github.com/osmosis-labs/fe-content/tree/main/cms/apps*
+
+
+---
+
 # Osmosis Apps List
 Osmosis Apps List is a curated list of applications built on, or interactive with, Osmosis. It serves as a resource for users to discover new and useful applications that enhance their experience on the platform.
 
